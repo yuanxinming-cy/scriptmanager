@@ -1,2 +1,0 @@
-# scriptmanager
-warehouse for scripts
